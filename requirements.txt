@@ -1,0 +1,4 @@
+tkinter.Tk
+tkinter.Label
+tkinter.PhotoImage
+tkinter.Button
